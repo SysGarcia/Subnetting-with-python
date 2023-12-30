@@ -1,3 +1,12 @@
+import sys
+import ctypes
+
+def enable_windows_ansi_support():
+    if sys.platform.startswith('win32'):
+        kernel32 = ctypes.windll.kernel32
+        kernel32.SetConsoleMode(kernel32.GetStdHandle(-11), 7)
+enable_windows_ansi_support()
+
 def colored(r, g, b, text):
     return f"\033[38;2;{r};{g};{b}m{text}\033[0m"
 
