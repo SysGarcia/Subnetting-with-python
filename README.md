@@ -17,7 +17,7 @@ To use the Subnetting Tool v2.0, you'll need Python installed on your computer. 
 
 ![imagen](https://github.com/Wolfuliam/Subnetting-with-python/assets/147284006/34447546-127d-4cb1-a20e-c565ba8f52e9)
 
-How to Use
+## How to Use
 
 After launching subnetting-v2.py, follow the on-screen prompts to enter your IP address and subnet mask. The tool will then display:
 
@@ -39,7 +39,3 @@ Don't forget to give the project a star! Thanks again!
     Commit your Changes (git commit -m 'Add some AmazingFeature')
     Push to the Branch (git push origin feature/AmazingFeature)
     Open a Pull Request
-
-License
-
-Distributed under the MIT License. See LICENSE for more information.
