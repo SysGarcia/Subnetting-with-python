@@ -26,7 +26,8 @@ After launching subnetting-v2.py, follow the on-screen prompts to enter your IP 
     The network and broadcast addresses.
 
 The application is interactive and will guide you through each step.
-Contributions
+
+## Contributions
 
 Your contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
